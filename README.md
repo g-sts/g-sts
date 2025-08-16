@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack em formação <br/>
+  🚀 Estudante de Tecnologia <br/>
 </p>
 
 ---
