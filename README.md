@@ -35,22 +35,17 @@
 
 ### 📊 Métricas e Estatísticas do GitHub
 
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" 
-        height="180em"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=donut&theme=react&hide_border=false&langs_count=6&custom_title=Linguagens+Mais+Usadas&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc" 
-        height="180em"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <div style="display: inline-block; border: 4px solid #00ffcc; border-radius: 15px; padding: 10px; margin-right: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);">
+    <img src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&text_color=ffffff&icon_color=00ffcc&title_color=00ffcc" height="180em"/>
+  </div>
+  <div style="display: inline-block; border: 4px solid #00ffcc; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=donut&theme=react&hide_border=true&langs_count=6&custom_title=Linguagens+Mais+Usadas&text_color=ffffff&icon_color=00ffcc&title_color=00ffcc" height="180em"
+    />
+  </div>
+
+</div>
 
 ---
 
