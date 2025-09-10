@@ -37,9 +37,9 @@
 
 <div align="center">
 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&token=SEU_TOKEN"/>
+  <img height=170em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&token=SEU_TOKEN"/>
 
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens+Mais+Usadas&langs_count=6&hide_border=true"/>
+  <img height=220em width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens+Mais+Usadas&langs_count=6&hide_border=true"/>
 
 </div>
 ---
