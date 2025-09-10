@@ -37,11 +37,9 @@
 
 <div align="center">
 
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&token=SEU_TOKEN"/>
+  <img  width="450" src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&token=SEU_TOKEN"/>
 
-  <div width=10%></div>
-
-  <img  width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens+Mais+Usadas&langs_count=6&hide_border=true"/>
+  <img  width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens+Mais+Usadas&langs_count=6&hide_border=true"/>
 
 </div>
 ---
