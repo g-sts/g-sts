@@ -35,17 +35,23 @@
 
 ### 📊 Métricas e Estatísticas do GitHub
 
-<div align="center">
-   <img 
-    src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" 
-    height="150em"
-  />
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" 
+        height="180em"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=donut&theme=react&hide_border=false&langs_count=6&custom_title=Linguagens+Mais+Usadas&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc" 
+        height="180em"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=donut&theme=react&hide_border=false&langs_count=6&custom_title=Linguagens+Mais+Usadas&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc" 
-    height="150em"
-  />
-</div>
 ---
 
 ### 💬 Sobre mim
