@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🚀 Estudante de Tecnologia <br/>
+  👨‍💻 Desenvolvedor Backend <br/>
 </p>
 
 ---
@@ -45,15 +45,5 @@
     height="180em"
   />
 </div>
-
----
-
-### 💬 Sobre mim
-
-- 📚 Atualmente focado em Back-end, com ênfase em APIs, bancos de dados e arquitetura de sistemas.
-- 🔄 Interesse em práticas de DevOps e automação para melhorar eficiência no desenvolvimento.
-- 💻 Criando projetos próprios para desenvolver habilidades técnicas e construir portfólio.
-
----
 
 > _“A prática constante e a busca pelo aprendizado são os pilares do crescimento profissional.”_
