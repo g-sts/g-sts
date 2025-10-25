@@ -45,5 +45,3 @@
     height="180em"
   />
 </div>
-
-> _“A prática constante e a busca pelo aprendizado são os pilares do crescimento profissional.”_
