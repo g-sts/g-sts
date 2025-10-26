@@ -14,6 +14,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
@@ -28,7 +30,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
 </div>
 
 ---
