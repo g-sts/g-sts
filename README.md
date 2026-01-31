@@ -30,7 +30,6 @@ Tenho base em desenvolvimento e automação, o que facilita integrações, const
 
 </div>
 
----
 
 <div align="center">
 
@@ -41,7 +40,6 @@ Tenho base em desenvolvimento e automação, o que facilita integrações, const
 
 </div>
 
----
 
 <div align="center">
 
@@ -68,11 +66,11 @@ Tenho base em desenvolvimento e automação, o que facilita integrações, const
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=g-sts&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
     height="180em"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=compact&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sts&layout=compact&theme=dark&langs_count=8&cache_seconds=1800" 
     height="180em"
   />
 </div>
