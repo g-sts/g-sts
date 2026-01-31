@@ -11,7 +11,7 @@
 
 ### 🧠 Sobre mim
 
-- Atuo com dados desde a coleta até a análise final, com foco em entender o problema antes da ferramenta. 
+- Atuo com dados desde a coleta até a análise final, com foco em entender o problema antes de escolher a ferramenta. 
 - Trabalho com dados reais, levantamento de hipóteses, investigação com SQL e Python e comunicação clara dos resultados.
 - Tenho base em desenvolvimento e automação, o que facilita integrações, construção de pipelines e soluções orientadas a dados de ponta a ponta.
 
